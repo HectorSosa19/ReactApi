@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ApiPokemonASP\\ApiPokemonASP\\ApiPokemonASP.csproj",
+      "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ReactApiAsp\\ApiPokemonASP\\ApiPokemonASP\\ApiPokemonASP.csproj",
       "projectName": "ApiPokemonASP",
-      "projectPath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ApiPokemonASP\\ApiPokemonASP\\ApiPokemonASP.csproj",
+      "projectPath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ReactApiAsp\\ApiPokemonASP\\ApiPokemonASP\\ApiPokemonASP.csproj",
       "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ApiPokemonASP\\ApiPokemonASP\\obj\\",
+      "outputPath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ReactApiAsp\\ApiPokemonASP\\ApiPokemonASP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

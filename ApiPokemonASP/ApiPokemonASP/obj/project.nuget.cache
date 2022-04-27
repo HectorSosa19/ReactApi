@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fj9/a2U30wCiG2ER0YDWFdO2yueiO5RE2c2wgtQyHQCekwwZ78qTmpE0VgQMtTNnIpmn0VfoyNVHmr+5X/Z0Cw==",
+  "dgSpecHash": "8I9uidAN8XqMqit2dGnB00Kt+ggkUICjaIpGv2Gcomb+iMfU1364GjyprUHtDLa0qC7ML+hjkap7qthg2oLdKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ApiPokemonASP\\ApiPokemonASP\\ApiPokemonASP.csproj",
+  "projectFilePath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ReactApiAsp\\ApiPokemonASP\\ApiPokemonASP\\ApiPokemonASP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
